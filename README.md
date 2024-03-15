@@ -24,7 +24,7 @@ The process starts with a production request, which is usually initiated by anot
 * Navigate to the BigQuery console and select your newly created project.
 * Select the "Type to search" in the navigation panel on the left then type the project name "adventurework2019" and click "Enter".
 
-### 1.4 Apply Design Thinking mindset:
+### 1.4 Apply Design Thinking Mindset:
 
 #### 1.4.1 Empathize
 
@@ -44,4 +44,16 @@ The process starts with a production request, which is usually initiated by anot
 
 ## 2. Build Dashboard:
 
+* Using DAX to create measures and calculated columns
+* Build 2 report pages
+
+**Inventory Overview**
+
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/4550bd2a-13af-4948-bd4a-b4a95e405296)
+
+**Inventory Status**
+
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/e478b0ce-10d8-4d72-aa3c-c927d7024007)
+
+## 3. Insights:
 
