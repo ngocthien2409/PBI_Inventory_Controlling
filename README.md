@@ -24,4 +24,24 @@ The process starts with a production request, which is usually initiated by anot
 * Navigate to the BigQuery console and select your newly created project.
 * Select the "Type to search" in the navigation panel on the left then type the project name "adventurework2019" and click "Enter".
 
-### 1.4 
+### 1.4 Apply Design Thinking mindset:
+
+#### 1.4.1 Empathize
+
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/47ed8a2f-acd5-4509-a220-0fc9e633ce8e)
+
+#### 1.4.2 Define point of view
+
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/867200d5-71ef-4ebf-8512-723e21f40e68)
+
+#### 1.4.3 Ideate
+
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/7d97da67-2ce0-4f2a-bfd3-a712bcffeadc)
+
+#### 1.4.4 & 1.4.5 Protorype & Review 
+
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/a9c874bc-ca49-4948-93e9-6d333d19a76c)
+
+## 2. Build Dashboard:
+
+
