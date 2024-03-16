@@ -49,7 +49,7 @@ The process starts with a production request, which is usually initiated by anot
 
 **Inventory Overview**
 
-![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/4550bd2a-13af-4948-bd4a-b4a95e405296)
+![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/9cd52d56-26b1-4c54-abb0-4af1cdac5dc1)
 
 **Inventory Status**
 
@@ -57,3 +57,23 @@ The process starts with a production request, which is usually initiated by anot
 
 ## 3. Insights:
 
+### 3.1 Inventory Value over periods:
+
+* Inventory Value decreased gradually from March 2008 to May 2011, then rose to April 2013 and finally, solid growth in August 2014.
+* The fact that both the Inventory Quantity and Value increased sharply in August 2014 shows that the company needed to reserve many products at that time but the company's storage method was not effective because the percentage of products stored at dangerous levels was very high. The percentage of products at safe level was very low compared to the total number of products being stored, accounting for only 14.6% of the total products.
+
+### 3.2 Inventory Quantity by Category:
+
+* The situation of the company's inventory was extremely concerning because 368 out of 504 products, accounting for 73%, are at dangerous levels.
+* There was a paradox in the company's storage: the category with the largest number of stored products, Components, did not have any products at safe level.
+
+### 3.3 Inventory Quantity by Location:
+
+* Products belonged to location Tool Crib accounted for the largest proportion of location distribution and there was a fact that all of these products were at dangerous levels.
+* All products within the safety level in storage were located in the location Finished Goods Storage, meaning these products have completed the production process.
+
+## 4. Recommendations:
+
+* Need to store more products in category Components because although the amount of storage was the largest, it did not meet the safety level.
+* If the products in the safety level were all in the Finished Goods Storage, the company should have pushed those products to the market for early sale to clear the storage and had more resources to reserve other products.
+* All product categories and locations had dangerous products that needed to be stocked, proving that the company was not doing well in Inventory and needs to improve this to facilitate the production process in the future.
