@@ -49,11 +49,13 @@ The process starts with a production request, which is usually initiated by anot
 
 **Inventory Overview**
 
-![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/9cd52d56-26b1-4c54-abb0-4af1cdac5dc1)
+![z5761912506480_e247ad2e0a8b0dd5b01e88b177197317](https://github.com/user-attachments/assets/76b138b7-5296-4c8a-8ffe-c7fb2d4ed96b)
 
-**Inventory Status**
 
-![image](https://github.com/ngocthien2409/PBI_Inventory_Controlling/assets/155359458/e478b0ce-10d8-4d72-aa3c-c927d7024007)
+**Product Inventory Detail**
+
+![z5761912511411_cbde458a9848a5e8581228b1482385bc](https://github.com/user-attachments/assets/a7523b38-157c-4e4f-92c7-4179a7e42b0d)
+
 
 ## 3. Insights:
 
